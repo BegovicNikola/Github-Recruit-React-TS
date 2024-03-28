@@ -14,7 +14,7 @@ Currently, two official plugins are available:
 `npm run dev`: Runs the development server for the application.
 
 ```bash
-concurrently "vite"
+"vite"
 ```
 
 ## Expanding the ESLint configuration
