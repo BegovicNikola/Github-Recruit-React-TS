@@ -3,8 +3,8 @@ const About = () => {
     <>
       <h1 className="mb-4 text-6xl">Github Recruit</h1>
       <p className="mb-4 text-2xl font-light">
-        My React-TS version of a React app to search GitHub profiles and see
-        profile details. This project is part of the
+        My Vite-React-TS version of a React app to search GitHub profiles and
+        see profile details. This project is part of the
         <a href="https://www.udemy.com/course/modern-react-front-to-back/">
           {" "}
           React Front To Back
